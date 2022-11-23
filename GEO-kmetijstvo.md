@@ -75,7 +75,7 @@
         - velikost kmetijskih obratov se je začela **večati šele po osamosvojitvi**
         - št kmetij je **upadlo**
         - **več manjših kmetij** in zelo **malo** veklikih kmetijskih gospodarstev
-        - **povprečna kmetija** je velika **6ha**, dobičkonosno bi bilo **najmanj 10ha**
+        - **povprečna kmetija** je velika **7ha** - leto 2020, dobičkonosno bi bilo **najmanj 10ha**
         ![velikost kmetijskih zemljišč](imgs/velikost_kmetijskih_zemlji%C5%A1%C4%8D.png)
     - **prostorska razporeditev parcel**
         - posamezne **parcele razpršene in pomešane** med drugimi lastniki
@@ -152,6 +152,7 @@
     - https://kmetija-tavcar.si/wp-content/gallery/kmetijstvo/DSCN5084.JPG, dostopano 23. 11. 2022
     - https://eucbeniki.sio.si/geo9/2627/Raba_tal.png, dostopano 23. 11. 2022
     - https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Unload_wheat_by_the_combine_Claas_Lexion_584.jpg/1920px-Unload_wheat_by_the_combine_Claas_Lexion_584.jpg, dostopano 23. 11. 2022
+    - https://www.stat.si/StatWeb/File/NewsImage/27865, dostopano 23. 11. 2022
     - https://eucbeniki.sio.si/geo9/2627/Nasad%20hmelja.JPG, dostopano 23. 11. 2022
     - https://eucbeniki.sio.si/geo9/2627/slika_9-ogrscica.1.JPG, dostopano 23. 11. 2022
     - https://upload.wikimedia.org/wikipedia/commons/3/3b/Bauernhof.jpg, dostopano 23. 11. 2022
