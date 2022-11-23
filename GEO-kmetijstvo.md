@@ -55,7 +55,7 @@
     - **pomanjkanje rodovitne prsti**
 - ~3/4 kmetijskih zemljišč leži na **manj primernih območjih**
 - najbolj **primerna zemljišča** večinoma **Obpanonska pokrajina**
-- ![raba tal - pogoji za kmetijstvo](https://eucbeniki.sio.si/geo9/2627/Raba_tal.png)
+- ![raba tal - pogoji za kmetijstvo](imgs/raba_tal-pogoji_za_rabo_tal.png)
 - **melioracija** - posegi za **izboljšavo možnosti za pridelovanje**
     - **hidromelioracija** - **namakanje** ali **osuševanje** tal
         - namakalnih sistemov imamo **premalo**
