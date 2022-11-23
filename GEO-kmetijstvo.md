@@ -97,8 +97,11 @@
 ### Viri
 - internet:
     - https://sl.wikipedia.org/wiki/Kmetijstvo, dostopano 22. 11. 2022
+    - https://eucbeniki.sio.si/geo9/2627/, dostopano 23. 11. 2022
 - knjige:
     - GEOGRAFIJA SLOVENIJE Učbenik za 9. razred osnovne šole
+- slike:
+    - https://eucbeniki.sio.si/geo9/2627/Raba_tal.png, dostopano 23. 11. 2022
 
 ### Uprašaj!! (Temp) - 24. 11. 2022
 - neugodni družbeni dejavniki -> slaba stariostna in izobrazbena sestava + delež BDP -> to pripada Roku?
