@@ -108,6 +108,7 @@
 - vplivali neugodni **naravni in družbeni** dejavniki
 - **ozelenjevanje** - spreminjanje **kmetijskih zemljišč v travnike** zaradi opuščanja kmetijstva
 - **ogozdovanje** - zaraščanje kmetijskih zemljišč z **gozdovi**
+
 ![zaraščanje travnikov](imgs/zarascanje_travnikov-ozelenjevanje.jpg)
 - ^ procesa **značilna za hribovska in prometno odročna** območja
 - gozd **~2/3** Slovenije
