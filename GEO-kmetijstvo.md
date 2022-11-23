@@ -67,7 +67,7 @@
 ## Družbeni dejavniki
 - **mehnizacija** - uporaba strojev:
     - potreba po **delovni sili** se je **zmanjšala**
-- ![mehanizirano žetje pšenice](imgs/mehanizirano_%C5%BEetje_p%C5%A1enice.jpg)
+![mehanizirano žetje pšenice](imgs/mehanizirano_%C5%BEetje_p%C5%A1enice.jpg)
 - **zemljiška razdrobljenost** - več **manjših obdelovalnih površin** razpršenih na **več delov**
     - **majhna zemljišča**
         - na to vpliva **dedovanje manjših zemljišč**
@@ -89,8 +89,8 @@
 - za pridelavo vrtnin **najbolj primerna Primorska pokrajina**
 - **vrtnine** na manjših njivah in vrtovih - **korenje, čebula, paradižnik, kumare, fižol, zelje, različne solate**
 - **manjši del njiv** je namenjen **industrijskim rastlinam** - **hmelju, sladkorni pesi, sončnicam, bučam za olje in olji ogrščici**
-- ![nasad hmelja](imgs/nasad_hmelja.jpg)
-- ![polja oljne ogrščice](imgs/polja_oljne_ogr%C5%A1%C4%8Dice.JPG)
+![nasad hmelja](imgs/nasad_hmelja.jpg)
+![polja oljne ogrščice](imgs/polja_oljne_ogr%C5%A1%C4%8Dice.JPG)
 - **živinoreja** je **kmetijska panoga**, ki se ukvarja z **gojitvijo domačih živali** z namenom pridobivanja **prehranskih proizvodov**, samih živali za **delovno živino**, **surovin** za oblačila in obutev ter **gnoja** 
 - **živinoreja** je **najpomembnejša** kmetijska dejavnost v Sloveniji:
     - v **hribovitih** predelih - **pašna živinoreja**
@@ -100,7 +100,7 @@
     - po **celi Sloveniji** je pomembno tudi** perutninarstvo** - gojenje perutnine(udomačene ptice)
     - večinoma **Opanonska pokrajina** - **prašičereja**
     - majhen del tudi **drobnica**(ovce, koze) in konjereja - večinoma **dodatna dejavnost**
-- ![govedo na živinorejski farmi](imgs/govedo_na_%C5%BEivinorejski_farmi.jpg)
+![govedo na živinorejski farmi](imgs/govedo_na_%C5%BEivinorejski_farmi.jpg)
 
 ## Vinogradništvo in sadjarstvo
 
@@ -108,7 +108,7 @@
 - vplivali neugodni **naravni in družbeni** dejavniki
 - **ozelenjevanje** - spreminjanje **kmetijskih zemljišč v travnike** zaradi opuščanja kmetijstva
 - **ogozdovanje** - zaraščanje kmetijskih zemljišč z **gozdovi**
-- ![zaraščanje travnikov](imgs/zarascanje_travnikov-ozelenjevanje.jpg)
+![zaraščanje travnikov](imgs/zarascanje_travnikov-ozelenjevanje.jpg)
 - ^ procesa **značilna za hribovska in prometno odročna** območja
 - gozd **~2/3** Slovenije
 - opuščena zemljišča v **kotlinah in nižinah** pozidana
