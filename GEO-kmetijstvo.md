@@ -4,7 +4,7 @@
 ## Osnovne značilnosti
 - **kmetijstvo ali agrikultura je človekova dejavnost, ki se ukvarja z gojenjem rastlin in živali za hrano in surovine, običajno udomačenih živali in kulturnih rastlin**
 - v Sloveniji kmetijska zemljišča predstavljajo **32% celotnega ozemlja**
-- ustvarja zelo **majhen del - 2% - bruto domačega proizvoda** (**BDP**)
+- ustvarja zelo **majhen del - 0,8% v letu 2021 - bruto domačega proizvoda** (**BDP**)
 - kmetijstvo - **primarni sektor** gospodarstva
 - osnovne kmetijske **panoge**:
     - **poljedelstvo**
@@ -103,6 +103,26 @@
 ![govedo na živinorejski farmi](imgs/govedo_na_%C5%BEivinorejski_farmi.jpg)
 
 ## Vinogradništvo in sadjarstvo
+- panogi s tradicijo vezani na obpanonske in obsredozemske pokrajine
+- v obsredozemskih pokrajinah uspeva oljka, češnje, breskve, marelice
+- jabolka in hruške po vsej Sloveniji
+- slovenska vina so dobro znana v tujini
+- Slovenija ima 3 vinorodna območja:
+    - razlika v:
+        - prsti
+        - podnebju
+        - po izboru vinskih sort
+    - obomčja:
+        - Podravsko vinorodno območje:
+            - karbonatne kaminine in peščenjaki
+            - laški rizling, šardone, šipon, renski rizling, beli pinot
+        - Posavsko vinorodno območje:
+            - lapor, peščenjaki
+            - redeče sorte(modra frankinja, cviček)
+        - Primorsko vinorodno območje:
+            - apnenec in fliš
+            - refošk, rebula, merlot, teran, malvazija, kaberne, sovinjon, ...
+![vinorodna območja Slovenije](imgs/vinorodna_obmo%C4%8Dja_slovenije.png)
 
 ## Spreminjanje rabe tal
 - vplivali neugodni **naravni in družbeni** dejavniki
@@ -122,6 +142,7 @@
     - https://eucbeniki.sio.si/geo9/2627/, dostopano 23. 11. 2022
     - https://sl.wikipedia.org/wiki/%C5%BDivinoreja, dostopano 23. 11. 2022
     - https://en.wikipedia.org/wiki/Agriculture, dostopano 23. 11. 2022
+    - https://www.stat.si/StatWeb/News/Index/10592, dostopano 23. 11. 2022
 - knjige:
     - GEOGRAFIJA SLOVENIJE Učbenik za 9. razred osnovne šole
 - slike:
@@ -130,9 +151,10 @@
     - https://eucbeniki.sio.si/geo9/2627/Nasad%20hmelja.JPG, dostopano 23. 11. 2022
     - https://eucbeniki.sio.si/geo9/2627/slika_9-ogrscica.1.JPG, dostopano 23. 11. 2022
     - https://upload.wikimedia.org/wikipedia/commons/3/3b/Bauernhof.jpg, dostopano 23. 11. 2022
+    - https://eucbeniki.sio.si/geo9/2627/skupaj.png, dostopano 23. 11. 2022
     - https://eucbeniki.sio.si/geo9/2627/30_zarascanje_travnikov.jpg, dostopano 23. 11. 2022
 
-### Uprašaj!! (Temp) - 24. 11. 2022
+### Vprašaj!! (Temp) - 24. 11. 2022
 - neugodni družbeni dejavniki -> slaba stariostna in izobrazbena sestava + delež BDP -> to pripada Roku?
 - spreminjanje rabe tal -> gozd še spada pod kmetijstvo??
 - jaz samo opišem pojme ali opisujem kot pirbližno v učb?
