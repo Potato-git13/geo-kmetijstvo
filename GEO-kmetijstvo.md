@@ -136,7 +136,4 @@
 - neugodni družbeni dejavniki -> slaba stariostna in izobrazbena sestava + delež BDP -> to pripada Roku?
 - spreminjanje rabe tal -> gozd še spada pod kmetijstvo??
 - jaz samo opišem pojme ali opisujem kot pirbližno v učb?
-<<<<<<< HEAD
 - citiranje eučbenikov
-=======
->>>>>>> 41af0da1fdfe7e773827c0679bebc1d78b1a6a10
