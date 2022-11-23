@@ -24,6 +24,7 @@
     - **travnik**
     - **pašnik**
     - gozd
+![pašnik](imgs/pa%C5%A1nik.jpg)
 - zemljišča v **največji uporabi**:
     - **travniki**
     - **pašniki**
@@ -73,7 +74,9 @@
         - na to vpliva **dedovanje manjših zemljišč**
         - velikost kmetijskih obratov se je začela **večati šele po osamosvojitvi**
         - št kmetij je **upadlo**
-        - **več manjših kmetij** in zelo **malo** kmetijskih gospodarstev **nad 2ha**
+        - **več manjših kmetij** in zelo **malo** veklikih kmetijskih gospodarstev
+        - **povprečna kmetija** je velika **6ha**, dobičkonosno bi bilo **najmanj 10ha**
+        ![velikost kmetijskih zemljišč](imgs/velikost_kmetijskih_zemlji%C5%A1%C4%8D.png)
     - **prostorska razporeditev parcel**
         - posamezne **parcele razpršene in pomešane** med drugimi lastniki
         - uporaba kmetijske mehanizacije negospodarna
@@ -103,25 +106,25 @@
 ![govedo na živinorejski farmi](imgs/govedo_na_%C5%BEivinorejski_farmi.jpg)
 
 ## Vinogradništvo in sadjarstvo
-- panogi s tradicijo vezani na obpanonske in obsredozemske pokrajine
-- v obsredozemskih pokrajinah uspeva oljka, češnje, breskve, marelice
-- jabolka in hruške po vsej Sloveniji
-- slovenska vina so dobro znana v tujini
-- Slovenija ima 3 vinorodna območja:
-    - razlika v:
-        - prsti
-        - podnebju
-        - po izboru vinskih sort
-    - obomčja:
-        - Podravsko vinorodno območje:
-            - karbonatne kaminine in peščenjaki
-            - laški rizling, šardone, šipon, renski rizling, beli pinot
-        - Posavsko vinorodno območje:
-            - lapor, peščenjaki
-            - redeče sorte(modra frankinja, cviček)
-        - Primorsko vinorodno območje:
-            - apnenec in fliš
-            - refošk, rebula, merlot, teran, malvazija, kaberne, sovinjon, ...
+- panogi s tradicijo **vezani na obpanonske in obsredozemske pokrajine**
+- v **obsredozemskih** pokrajinah uspeva **oljka, češnje, breskve, marelice**
+- **jabolka in hruške** po **vsej Sloveniji**
+- slovenska **vina** so dobro **znana v tujini**
+- Slovenija ima **3 vinorodna območja**:
+    - **razlika** v:
+        - **prsti**
+        - **podnebju**
+        - **po izboru vinskih sort**
+    - **obomčja**:
+        - **Podravsko** vinorodno območje:
+            - **karbonatne kaminine in peščenjaki**
+            - **laški rizling, šardone, šipon, renski rizling, beli pinot**
+        - **Posavsko** vinorodno območje:
+            - **lapor, peščenjakiv**
+            - **redeče sorte(modra frankinja, cviček)**
+        - **Primorsko** vinorodno območje:
+            - **apnenec in fliš**
+            - **refošk, rebula, merlot, teran, malvazija, kaberne, sovinjon**, ...
 ![vinorodna območja Slovenije](imgs/vinorodna_obmo%C4%8Dja_slovenije.png)
 
 ## Spreminjanje rabe tal
@@ -146,6 +149,7 @@
 - knjige:
     - GEOGRAFIJA SLOVENIJE Učbenik za 9. razred osnovne šole
 - slike:
+    - https://kmetija-tavcar.si/wp-content/gallery/kmetijstvo/DSCN5084.JPG, dostopano 23. 11. 2022
     - https://eucbeniki.sio.si/geo9/2627/Raba_tal.png, dostopano 23. 11. 2022
     - https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Unload_wheat_by_the_combine_Claas_Lexion_584.jpg/1920px-Unload_wheat_by_the_combine_Claas_Lexion_584.jpg, dostopano 23. 11. 2022
     - https://eucbeniki.sio.si/geo9/2627/Nasad%20hmelja.JPG, dostopano 23. 11. 2022
