@@ -24,7 +24,9 @@
     - **travnik**
     - **pašnik**
     - gozd
+
 ![pašnik](imgs/pa%C5%A1nik.jpg)
+
 - zemljišča v **največji uporabi**:
     - **travniki**
     - **pašniki**
@@ -58,7 +60,9 @@
     - **pomanjkanje rodovitne prsti**
 - ~3/4 kmetijskih zemljišč leži na **manj primernih območjih**
 - najbolj **primerna zemljišča** večinoma **Obpanonska pokrajina**
+
 ![raba tal - pogoji za kmetijstvo](imgs/raba_tal-pogoji_za_rabo_tal.png)
+
 - **melioracija** - posegi za **izboljšavo možnosti za pridelovanje**
     - **hidromelioracija** - **namakanje** ali **osuševanje** tal
         - namakalnih sistemov imamo **premalo**
@@ -68,7 +72,9 @@
 ## Družbeni dejavniki
 - **mehnizacija** - uporaba strojev:
     - potreba po **delovni sili** se je **zmanjšala**
+
 ![mehanizirano žetje pšenice](imgs/mehanizirano_%C5%BEetje_p%C5%A1enice.jpg)
+
 - **zemljiška razdrobljenost** - več **manjših obdelovalnih površin** razpršenih na **več delov**
     - **majhna zemljišča**
         - na to vpliva **dedovanje manjših zemljišč**
@@ -76,13 +82,19 @@
         - št kmetij je **upadlo**
         - **več manjših kmetij** in zelo **malo** veklikih kmetijskih gospodarstev
         - **povprečna kmetija** je velika **7ha** - leto 2020, dobičkonosno bi bilo **najmanj 10ha**
+
         ![velikost kmetijskih zemljišč](imgs/velikost_kmetijskih_zemlji%C5%A1%C4%8D.png)
+
     - **prostorska razporeditev parcel**
         - posamezne **parcele razpršene in pomešane** med drugimi lastniki
         - uporaba kmetijske mehanizacije negospodarna
         - problem veliko **manjši v zadrugah**, ker je **več zemljišč sklenjenih skupaj**
 - **slaba starostna in izobrazbena sestava delovne sile**
-    - Rok
+    - mlajši odšli s kmetij
+    - nadpovprečno št. starih gospodarjev - ne zmorejo težkih kmečkihopravil, ni naslednikov
+    - starejši se težje prilagodijo tehnološkim spremembam
+    - stari gospodarji pogosto manj izobraženi
+    - Slovenija zaostaja za razvitimi evropskimi državami
 
 ## Poljedelstvo in Živinoreja
 - **poljedelstvo** - kmetijska panoga, ki se ukvarja s **pridelavo rastlin**
@@ -92,8 +104,10 @@
 - za pridelavo vrtnin **najbolj primerna Primorska pokrajina**
 - **vrtnine** na manjših njivah in vrtovih - **korenje, čebula, paradižnik, kumare, fižol, zelje, različne solate**
 - **manjši del njiv** je namenjen **industrijskim rastlinam** - **hmelju, sladkorni pesi, sončnicam, bučam za olje in olji ogrščici**
+
 ![nasad hmelja](imgs/nasad_hmelja.jpg)
 ![polja oljne ogrščice](imgs/polja_oljne_ogr%C5%A1%C4%8Dice.JPG)
+
 - **živinoreja** je **kmetijska panoga**, ki se ukvarja z **gojitvijo domačih živali** z namenom pridobivanja **prehranskih proizvodov**, samih živali za **delovno živino**, **surovin** za oblačila in obutev ter **gnoja** 
 - **živinoreja** je **najpomembnejša** kmetijska dejavnost v Sloveniji:
     - v **hribovitih** predelih - **pašna živinoreja**
@@ -103,6 +117,7 @@
     - po **celi Sloveniji** je pomembno tudi** perutninarstvo** - gojenje perutnine(udomačene ptice)
     - večinoma **Opanonska pokrajina** - **prašičereja**
     - majhen del tudi **drobnica**(ovce, koze) in konjereja - večinoma **dodatna dejavnost**
+
 ![govedo na živinorejski farmi](imgs/govedo_na_%C5%BEivinorejski_farmi.jpg)
 
 ## Vinogradništvo in sadjarstvo
@@ -125,16 +140,14 @@
         - **Primorsko** vinorodno območje:
             - **apnenec in fliš**
             - **refošk, rebula, merlot, teran, malvazija, kaberne, sovinjon**, ...
+
 ![vinorodna območja Slovenije](imgs/vinorodna_obmo%C4%8Dja_slovenije.png)
 
 ## Spreminjanje rabe tal
 - vplivali neugodni **naravni in družbeni** dejavniki
-- **ozelenjevanje** - spreminjanje **kmetijskih zemljišč v travnike** zaradi opuščanja kmetijstva
-- **ogozdovanje** - zaraščanje kmetijskih zemljišč z **gozdovi**
+- zaradi opuščanja kmetijske dejavnosti se zemljišča zaraščajo
 
 ![zaraščanje travnikov](imgs/zarascanje_travnikov-ozelenjevanje.jpg)
-- ^ procesa **značilna za hribovska in prometno odročna** območja
-- gozd **~2/3** Slovenije
 - opuščena zemljišča v **kotlinah in nižinah** pozidana
     - **predalpske kotline** ponekod v **Opanonskih pokrajinah**
 - **Slovenija** spada med države, kjer se kmetijska zemljišča še naprej **nepovratno izgublja** iz leta v leto
