@@ -38,14 +38,14 @@
 <!-- - ohranja **poselitev podeželja**, preprečuje razpad **kulturne krajine** -->
 - pri nekaterih pridelkih **ne pokrijemo svojih potreb** - **proizvod niha in celo upada**
     - kupujemo vse več **uvožene hrane**
-- po **osamosvojitvi** je **​upadlo št kmetijskih gospodarstev** in delež **kmetijskih zemljišč**
+<!-- - po **osamosvojitvi** je **​upadlo št kmetijskih gospodarstev** in delež **kmetijskih zemljišč**
 - **nacionalizacija veleposesti** po ww2 (**socializem**), to postanejo državna posestva, ta so se spremenila v **kmetijske kombinate**, ti so sestavlaji **družbeni sektor kmetijstva** 
 - večinoma **najboljša zemljišča**, največ **družbene podpore**
 - **družbeni sektor najbolj produktiven**
 - **zasebni sektor** - zasebne kmetije, večina kmetij 
 - po **osamosvijitvi** je večina nekdanjih **nacionaliziranih zemljišč vrnjenih nekdanjim lastnikom** (zasebna last)
 - nekdanji **družbeni sektor** - **kmetijska podjetja in zadruge**
-- ^ višja produktivnost kot pri **družinskih kmetijah** - zavzemajo večino kmetijskih zemljišč
+- ^ višja produktivnost kot pri **družinskih kmetijah** - zavzemajo večino kmetijskih zemljišč -->
 
 ## Naravni dejavniki
 - **naravni pogoji**, ki vplivajo na kmetijstvo:
@@ -90,16 +90,16 @@
         - uporaba kmetijske mehanizacije negospodarna
         - problem veliko **manjši v zadrugah**, ker je **več zemljišč sklenjenih skupaj**
 - **slaba starostna in izobrazbena sestava delovne sile**
-    - mlajši odšli s kmetij
-    - nadpovprečno št. starih gospodarjev - ne zmorejo težkih kmečkihopravil, ni naslednikov
-    - starejši se težje prilagodijo tehnološkim spremembam
-    - stari gospodarji pogosto manj izobraženi
-    - Slovenija zaostaja za razvitimi evropskimi državami
+    - **mlajši odšli** s kmetij
+    - nadpovprečno št. **starih gospodarjev** - ne zmorejo **težkih kmečkih opravil**, **ni naslednikov**
+    - starejši se **težje prilagodijo tehnološkim spremembam**
+    - stari gospodarji pogosto **manj izobraženi**
+    - Slovenija **zaostaja** za razvitimi evropskimi državami
 
 ## Poljedelstvo in Živinoreja
 - **poljedelstvo** - kmetijska panoga, ki se ukvarja s **pridelavo rastlin**
 - **poljedelstvo** omejeno na **SV Slovenije**(ob Dravi, Lj. kotlina, Celjska kotlina, Krško polje, Vipavska dolina)
-- **največ žitnih polj** v **Obšanonskih** pokrajinah
+- **največ žitnih polj** v **Obpanonskih** pokrajinah
 - na **njivah** večinoma **pšenica, koruza, krompir**
 - za pridelavo vrtnin **najbolj primerna Primorska pokrajina**
 - **vrtnine** na manjših njivah in vrtovih - **korenje, čebula, paradižnik, kumare, fižol, zelje, različne solate**
@@ -114,7 +114,7 @@
     - po vsej Sloveniji - **intenzivna hlevska živinoreja**
         - rejenja goveda za **pridelavo mleka in mesa**
         - razvoj **govedoreje** vplival na **delež njiv s krmnimi rastlinami**
-    - po **celi Sloveniji** je pomembno tudi** perutninarstvo** - gojenje perutnine(udomačene ptice)
+    - po **celi Sloveniji** je pomembno tudi **perutninarstvo** - gojenje perutnine(udomačene ptice)
     - večinoma **Opanonska pokrajina** - **prašičereja**
     - majhen del tudi **drobnica**(ovce, koze) in konjereja - večinoma **dodatna dejavnost**
 
