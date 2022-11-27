@@ -171,9 +171,3 @@
     - https://upload.wikimedia.org/wikipedia/commons/3/3b/Bauernhof.jpg, dostopano 23. 11. 2022
     - https://eucbeniki.sio.si/geo9/2627/skupaj.png, dostopano 23. 11. 2022
     - https://eucbeniki.sio.si/geo9/2627/30_zarascanje_travnikov.jpg, dostopano 23. 11. 2022
-
-### Vprašaj!! (Temp) - 24. 11. 2022
-- neugodni družbeni dejavniki -> slaba stariostna in izobrazbena sestava + delež BDP -> to pripada Roku?
-- spreminjanje rabe tal -> gozd še spada pod kmetijstvo??
-- jaz samo opišem pojme ali opisujem kot pirbližno v učb?
-- citiranje eučbenikov
